@@ -22,8 +22,11 @@ Scribbles 10.4
    Organize your drafts with ease using our sorting and tracking features. The text editor allows you to categorize, sort, and track your drafts, ensuring that you can quickly locate and manage your work.
    
    
+ Easily search and replace, track through progress bar, work with fonts and customizations, check for corruption and export to  txt and rtf , introduce documents using TAG recognision
  
- Coded in C Sharp , you need visual studio to build upon the code.
+ 
+ 
+ Coded in C Sharp , you need visual studio to build upon the code.  
  
  
 
